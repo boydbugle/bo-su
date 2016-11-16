@@ -1,0 +1,34 @@
+img.author
+ {
+  float: left;
+}
+img.author1
+ {
+  float: left;
+}
+img.himg {
+
+  width: 35%;
+  height: 15%;
+}
+div.head{
+  color: red;
+  font-family: fantasy;
+  font-size: 16;
+  font-weight: bold;
+  font-style: italic;
+  position: relative;
+  top: 20px;
+  left: 80px;
+}
+div.content {
+  color:#e67300;
+  font-family: chiller;
+  font-size: 30px;
+
+}
+p.adet{
+  color: #ff00ff;
+  font-family: cooper black;
+  font-size: 20px;
+}
